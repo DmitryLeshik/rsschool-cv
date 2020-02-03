@@ -5,10 +5,13 @@
     outline: none !important;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     font-family: 'Titillium Web', sans-serif;
     background: #c5c5c5;
-    overflow-x: hidden;
 }
 
 li {
